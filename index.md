@@ -1,4 +1,1 @@
-sample content
-
-
-City: Hyderabad & Bangalore
+This is a zoom installation guide. This guide provides you the step-by-step instructions to install and use the zoom application. To know more, [Click here](zoom-installation-guide.md).
